@@ -12,6 +12,6 @@ The primary dataset for this analysis is sourced from [Kaggle.com](https://www.k
 
 **Language:** Python 
 
-**Librairies:** Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, and Joblib 
+**Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, and Joblib 
 
  
