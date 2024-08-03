@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-This project aims to create a model for predicting sleep disorders. This involves choosing the most suitable Machine Learning algorithm that ensures accurate and dependable results.
+This project aims to create a model for predicting sleep disorders. This includes choosing the most suitable Machine Learning algorithm that ensures accurate and dependable results.
 
 ### Data Sources
 
